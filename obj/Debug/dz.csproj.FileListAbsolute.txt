@@ -1,0 +1,11 @@
+C:\Users\Артем Карасев\source\repos\dz\bin\Debug\dz.exe.config
+C:\Users\Артем Карасев\source\repos\dz\bin\Debug\dz.exe
+C:\Users\Артем Карасев\source\repos\dz\bin\Debug\dz.pdb
+C:\Users\Артем Карасев\source\repos\dz\obj\Debug\dz.csproj.AssemblyReference.cache
+C:\Users\Артем Карасев\source\repos\dz\obj\Debug\dz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Артем Карасев\source\repos\dz\obj\Debug\dz.Main.resources
+C:\Users\Артем Карасев\source\repos\dz\obj\Debug\dz.Properties.Resources.resources
+C:\Users\Артем Карасев\source\repos\dz\obj\Debug\dz.csproj.GenerateResource.cache
+C:\Users\Артем Карасев\source\repos\dz\obj\Debug\dz.csproj.CoreCompileInputs.cache
+C:\Users\Артем Карасев\source\repos\dz\obj\Debug\dz.exe
+C:\Users\Артем Карасев\source\repos\dz\obj\Debug\dz.pdb
